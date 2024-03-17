@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>CustomPopup.qml</file>
+        <file>Keyboard.qml</file>
+        <file>HelpPopup.qml</file>
+        <file>NotInWordListPopup.qml</file>
+        <file>GameGrid.qml</file>
+    </qresource>
+</RCC>
